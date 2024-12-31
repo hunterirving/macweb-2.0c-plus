@@ -1,4 +1,6 @@
 # MacWeb 2.0c+
+<img src="/readme_images/wayback machine.gif"></img>
+
 The base MacWeb 2.0 browser (1996) with the following changes/additions applied to enhance compatibility with black and white Macs like the Macintosh Plus:
 - applied Antoine Hébert's unofficial 2.0c patch (1998) that fixes a "blackout" bug that occurs when pages have a background color set
 - used ResEdit to clean up user interface elements for better rendering on 1-bit black and white displays
